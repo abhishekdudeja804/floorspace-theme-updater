@@ -2,7 +2,7 @@
 /**
  * Plugin Name: FloorSpace Theme Updaters
  * Description: Professional theme updater with automatic backup on every update and improved revert functionality
- * Version: 2.4
+ * Version: 2.5
  * Author: FloorSpace Dev Team
  */
 
