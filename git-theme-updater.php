@@ -14,7 +14,7 @@ class FloorSpaceThemeUpdaterPro {
     private $github_branch = 'dev_v1';
     private $github_token = '';
     private $theme_name = 'floorspace-v2';
-    private $plugin_version = '2.5';
+    private $plugin_version = '2.4';
     private $cache_duration = 300;
     private $backup_dir = '';
     
