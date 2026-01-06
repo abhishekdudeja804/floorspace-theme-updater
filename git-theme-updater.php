@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: FloorSpace Theme Updater Pro - Enhanced
+ * Plugin Name: FloorSpace Theme Updater
  * Description: Professional theme updater with automatic backup on every update and improved revert functionality
- * Version: 2.4
+ * Version: 2.5
  * Author: FloorSpace Dev Team
  */
 
@@ -14,7 +14,7 @@ class FloorSpaceThemeUpdaterPro {
     private $github_branch = 'dev_v1';
     private $github_token = '';
     private $theme_name = 'floorspace-v2';
-    private $plugin_version = '2.4';
+    private $plugin_version = '2.5';
     private $cache_duration = 300;
     private $backup_dir = '';
     
